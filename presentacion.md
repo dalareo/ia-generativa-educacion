@@ -17,6 +17,7 @@ style: |
   footer {
     text-align: center;
   }
+
 ---
 
 <!-- _paginate: false -->
@@ -33,6 +34,7 @@ style: |
 ## Herramientas utilizadas
 
 - **Claude:** Claude Sonnet 3.5
+- **Eugenia:** Eugenia by Éutika
 - **Marp:** Herramienta de presentación basada en Markdown
 - **Visual Studio Code:** Editor de código con soporte para Marp
 
@@ -42,7 +44,7 @@ style: |
 
 1. **Prompt:** Generación de ideas y estructura
 2. **Exportación:** Creación de diapositivas en Marp
-3. **Revisión:** Ajustes y correcciones
+3. **Revisión:** Ajustes y correcciones basadas en investigacion apoyada por Eugenia
 
 ---
 
@@ -50,6 +52,19 @@ style: |
 
 <!-- put image from url-->
 ![Prompt](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/prompt.png)
+
+---
+
+## Exportación
+
+![Marp](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/marp.png)
+
+
+---
+
+## Revisión
+
+![Eugenia](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/eugenia.png)
 
 ---
 
