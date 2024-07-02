@@ -17,6 +17,10 @@ style: |
   footer {
     text-align: center;
   }
+  img {
+    max-height: 50vh;
+  }
+
 
 ---
 
@@ -51,20 +55,20 @@ style: |
 ## Prompt
 
 <!-- put image from url-->
-![Prompt](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/prompt.png)
+![fit-image](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/prompt.png)
 
 ---
 
 ## Exportación
 
-![Marp](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/marp.png)
+![fit-image](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/marp.png)
 
 
 ---
 
 ## Revisión
 
-![Eugenia](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/eugenia.png)
+![fit-image](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/eugenia.png)
 
 ---
 
