@@ -28,6 +28,8 @@ style: |
 
 # Usos de la IA generativa en un contexto educativo
 
+![bg right:40% 80%](https://api.placeholder.com/generative-ai-education)
+
 ---
 
 ## Making-of
@@ -54,21 +56,20 @@ style: |
 
 ## Prompt
 
-<!-- put image from url-->
-![fit-image](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/prompt.png)
+![bg left:50%](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/prompt.png)
 
 ---
 
 ## Exportación
 
-![fit-image](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/marp.png)
+![bg right:50% 80%](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/marp.png)
 
 
 ---
 
 ## Revisión
 
-![fit-image](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/eugenia.png)
+![bg left:50%](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/eugenia.png)
 
 ---
 
@@ -77,6 +78,8 @@ style: |
 - **IA Generativa:** Sistemas de IA que pueden crear nuevo contenido
 - Transformando diversos aspectos de la educación
 - Potencial y desafíos en el ámbito educativo
+
+![bg right:30% 80%](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/aula-ia.jpeg)
 
 ---
 
@@ -87,6 +90,8 @@ style: |
 - Rutas de aprendizaje personalizadas
 - **Consideración:** Necesidad de supervisión humana para garantizar la calidad
 
+![bg right:40% 90%](https://api.placeholder.com/personalized-learning)
+
 ---
 
 ## 2. Evaluación Automatizada
@@ -94,6 +99,8 @@ style: |
 - Evaluación de ensayos y preguntas abiertas
 - Retroalimentación inmediata en las tareas
 - **Limitación:** Posible falta de comprensión de matices y contexto
+
+![bg left:40% 90%](https://api.placeholder.com/automated-grading)
 
 ---
 
@@ -135,6 +142,8 @@ style: |
 - Tutores virtuales y asistentes de enseñanza
 - **Limitación:** Posible falta de empatía y comprensión emocional
 
+![bg right:40% 90%](https://api.placeholder.com/interactive-learning)
+
 ---
 
 ## 8. Investigación y Síntesis de Información
@@ -169,7 +178,8 @@ style: |
 - **Limitaciones del RAG (Retrieval-Augmented Generation):**
   - Posibles inexactitudes en la recuperación de información
   - Riesgo de "alucinaciones" o generación de información falsa
-  - Necesidad de verificación humana en casos que requieren alta precisión
+
+![bg right:40% 90%](https://api.placeholder.com/interactive-learning)
 
 ---
 
@@ -188,6 +198,7 @@ style: |
 - Importancia del enfoque "human in the loop" en la educación
 - Necesidad de un equilibrio entre innovación tecnológica e innovación educativa
 
+![bg right:30% 90%](https://api.placeholder.com/ai-human-balance)
 ---
 
 <!-- Esta diapositiva solo aparecerá en las notas del presentador -->
