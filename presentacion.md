@@ -28,8 +28,6 @@ style: |
 
 # Usos de la IA generativa en un contexto educativo
 
-![bg right:40% 80%](https://api.placeholder.com/generative-ai-education)
-
 ---
 
 ## Making-of
