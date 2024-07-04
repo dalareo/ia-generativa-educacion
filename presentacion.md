@@ -90,7 +90,7 @@ style: |
 - Rutas de aprendizaje personalizadas
 - **Consideración:** Necesidad de supervisión humana para garantizar la calidad
 
-![bg right:40% 90%](https://api.placeholder.com/personalized-learning)
+![bg right:40% 90%](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/custom.jpeg)
 
 ---
 
@@ -100,7 +100,7 @@ style: |
 - Retroalimentación inmediata en las tareas
 - **Limitación:** Posible falta de comprensión de matices y contexto
 
-![bg left:40% 90%](https://api.placeholder.com/automated-grading)
+![bg left:40% 90%](https://raw.githubusercontent.com/dalareo/ia-generativa-educacion/main/evaluacion.jpeg)
 
 ---
 
@@ -142,7 +142,6 @@ style: |
 - Tutores virtuales y asistentes de enseñanza
 - **Limitación:** Posible falta de empatía y comprensión emocional
 
-![bg right:40% 90%](https://api.placeholder.com/interactive-learning)
 
 ---
 
@@ -179,7 +178,6 @@ style: |
   - Posibles inexactitudes en la recuperación de información
   - Riesgo de "alucinaciones" o generación de información falsa
 
-![bg right:40% 90%](https://api.placeholder.com/interactive-learning)
 
 ---
 
@@ -198,7 +196,7 @@ style: |
 - Importancia del enfoque "human in the loop" en la educación
 - Necesidad de un equilibrio entre innovación tecnológica e innovación educativa
 
-![bg right:30% 90%](https://api.placeholder.com/ai-human-balance)
+
 ---
 
 <!-- Esta diapositiva solo aparecerá en las notas del presentador -->
